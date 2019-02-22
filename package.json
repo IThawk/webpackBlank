@@ -1,0 +1,19 @@
+{
+  "name": "webpackblank",
+  "version": "1.0.0",
+  "description": "ithawk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IThawk/webpackBlank.git"
+  },
+  "author": "ithawk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IThawk/webpackBlank/issues"
+  },
+  "homepage": "https://github.com/IThawk/webpackBlank#readme"
+}
